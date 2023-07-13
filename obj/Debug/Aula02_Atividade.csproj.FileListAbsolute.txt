@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\bin\Debug\Aula02_Atividade.exe.config
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\bin\Debug\Aula02_Atividade.exe
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\bin\Debug\Aula02_Atividade.pdb
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\obj\Debug\Aula02_Atividade.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\obj\Debug\Aula02_Atividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\obj\Debug\Aula02_Atividade.Form1.resources
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\obj\Debug\Aula02_Atividade.Properties.Resources.resources
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\obj\Debug\Aula02_Atividade.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\obj\Debug\Aula02_Atividade.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\obj\Debug\Aula02_Atividade.exe
+C:\Users\DELL\source\repos\Aula02_Atividade\Aula02_Atividade\obj\Debug\Aula02_Atividade.pdb
